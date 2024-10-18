@@ -14,7 +14,7 @@ Meal Explorer is a web application that allows users to browse and explore vario
 
 ## Demo
 
-The application is live and can be accessed at [Meal Explorer on Vercel](https://your-vercel-deployment-url.vercel.app)
+The application is live and can be accessed at [Meal Explorer on Vercel](https://cmlabs-frontend-internship-test-brown.vercel.app)
 
 ## Features
 
